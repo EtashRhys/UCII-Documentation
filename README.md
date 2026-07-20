@@ -395,6 +395,7 @@ UCII exists to provide that foundation.
 Technical Documentation
 - **[TechOverview](docs/ucii-overview.md)**
 - **[Identity](docs/identity-model.md)**
+- **[Architecture](docs/architecture.md)**
 - **[CryptoArch](docs/cryptographic-architecture.md)**
 - **[x402Integ](docs/x402-integration.md)**
 - **[Security](docs/security-model.md)**
